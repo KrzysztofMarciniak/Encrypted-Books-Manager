@@ -1,5 +1,5 @@
 
-# Encrypted Books Manager
+# Encrypted Books Management System
 
 A command-line book management system with encrypted local storage using SQLCipher.
 
